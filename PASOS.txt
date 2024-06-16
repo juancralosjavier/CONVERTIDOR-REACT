@@ -1,0 +1,41 @@
+Creación de Proyecto con Vite + React y JavaScript
+
+1. Crear el Proyecto
+
+   Visita la página oficial de Vite para más detalles:
+   https://es.vitejs.dev/guide/
+
+   Comando para crear el proyecto:
+   npm create vite@latest
+
+2. Instalar Librerías Iniciales
+
+   Comando para instalar las librerías iniciales:
+   npm i
+
+3. Instalar Axios
+
+   Visita la página oficial de Axios para más información:
+   https://www.npmjs.com/package/axios
+
+   Comando para instalar Axios:
+   npm i axios
+
+4. Instalar Material UI para Estilos
+
+   Visita la página oficial de Material UI para más detalles:
+   https://mui.com/material-ui/getting-started/installation/
+
+   Comando para instalar Material UI y sus dependencias:
+   npm install @mui/material @emotion/react @emotion/styled
+
+   Comando para instalar los iconos de Material UI:
+   npm i @mui/icons-material
+
+5. Crear Proyecto con las Librerías
+
+   Modificamos el archivo principal `App.jsx` para mostrar la interfaz del convertidor de monedas.
+
+6. Obtener una API para el Tipo de Cambio
+
+   Crea una cuenta en https://www.exchangerate-api.com/ para obtener una API gratuita que proporciona el tipo de cambio de cada país.
